@@ -1,0 +1,14 @@
+{
+    "test1": {
+        "depart_from": "New Delhi",
+        "going_to": "Mumbai",
+        "date": "22/12/2022",
+        "stops": "1 Stop"
+    },
+    "test2": {
+        "depart_from": "BOM",
+        "going_to": "PVG",
+        "date": "25/12/2022",
+        "stops": "2 Stops"
+    }
+}

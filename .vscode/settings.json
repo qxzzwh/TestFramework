@@ -1,0 +1,10 @@
+{
+    "python.testing.pytestArgs": [
+        ".",
+        "--verbose",
+        "--browser=chrome",
+        "--url=https://www.yatra.com/"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
